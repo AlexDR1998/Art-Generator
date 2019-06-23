@@ -1,7 +1,7 @@
 # Art-Generator
 Unconventional Image Processing
 
-Doesn't do what most image processing programs do. If you want something for touching up photos look elsewhere. This mangles and abuses photos, often completely beyond recogniction. This is a program for turning ordinary photos into abstract art.
+Doesn't do what most image processing programs do. If you want something for touching up photos look elsewhere. This mangles and abuses photos, often completely beyond recogniction. This is a program for turning ordinary photos into abstract art. See the photos in Demo Outputs for what this can do. All the photos were taken by me, and are fairly basic/normal photos.
 
 
 
